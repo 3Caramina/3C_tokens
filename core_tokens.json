@@ -510,6 +510,11 @@
         "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "text and icons"
       }
     },
     "primary-inverse": {
@@ -520,6 +525,11 @@
       },
       "content": {
         "value": "{neutral.5}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.150}",
         "type": "color",
         "description": "text and icons"
       }
