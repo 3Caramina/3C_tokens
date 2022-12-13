@@ -540,7 +540,7 @@
         "type": "color",
         "description": "text and icons"
       },
-      "content-active": {
+      "content-action": {
         "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
