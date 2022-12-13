@@ -551,6 +551,33 @@
         "description": "text and icons"
       }
     },
+    "secondary-inverse": {
+      "fill": {
+        "value": "{neutral.210}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-action": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
     "tertiary": {
       "fill": {
         "value": "{neutral.0}",
