@@ -1,5 +1,7 @@
 {
-  "core": {
+  "global": {},
+  "typography": {},
+  "core palette": {
     "neutral": {
       "0": {
         "value": "hsla(0, 0%, 100%, 1)",
@@ -497,10 +499,63 @@
       }
     }
   },
+  "light": {
+    "primary": {
+      "fill": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "background page"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "primary-inverse": {
+      "fill": {
+        "value": "{neutral.235}",
+        "type": "color",
+        "description": "background page, accent forms"
+      },
+      "content": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "secondary": {
+      "fill": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "background page, accent forms"
+      },
+      "content": {
+        "value": "{neutral.175}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "tertiary": {
+      "fill": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "background page, accent forms"
+      },
+      "content": {
+        "value": "{neutral.145}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "core"
+      "global",
+      "typography",
+      "core palette",
+      "light"
     ]
   }
 }
