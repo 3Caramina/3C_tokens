@@ -573,7 +573,7 @@
         "description": "text and icons"
       },
       "content-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.110}",
         "type": "color",
         "description": "text and icons"
       }
