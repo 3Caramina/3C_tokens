@@ -528,7 +528,7 @@
       "fill": {
         "value": "{neutral.5}",
         "type": "color",
-        "description": "background page, accent forms"
+        "description": "on primary (cards, menu)"
       },
       "content": {
         "value": "{neutral.175}",
@@ -540,7 +540,7 @@
       "fill": {
         "value": "{neutral.0}",
         "type": "color",
-        "description": "background page, accent forms"
+        "description": "on secondary (dropdown, forms)"
       },
       "content": {
         "value": "{neutral.145}",
