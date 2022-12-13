@@ -546,7 +546,7 @@
         "description": "text and icons"
       },
       "content-disabled": {
-        "value": "{neutral.70}",
+        "value": "{neutral.80}",
         "type": "color",
         "description": "text and icons"
       }
