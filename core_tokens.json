@@ -208,7 +208,7 @@
         "type": "color"
       }
     },
-    "green": {
+    "teal": {
       "10": {
         "value": "hsla(180, 35%, 94%, 1)",
         "type": "color"
@@ -596,6 +596,102 @@
       },
       "content": {
         "value": "{neutral.145}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "brand": {
+      "fill": {
+        "value": "{teal.160}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "brand-soft": {
+      "fill": {
+        "value": "{teal.10}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{teal.200}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "success": {
+      "fill": {
+        "value": "{teal.160}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "success-soft": {
+      "fill": {
+        "value": "{teal.10}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{teal.200}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "danger": {
+      "fill": {
+        "value": "{red.160}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "danger-soft": {
+      "fill": {
+        "value": "{red.10}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{red.200}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "warning": {
+      "fill": {
+        "value": "{yellow.160}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "warning-soft": {
+      "fill": {
+        "value": "{yellow.10}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{yellow.200}",
         "type": "color",
         "description": "text and icons"
       }
