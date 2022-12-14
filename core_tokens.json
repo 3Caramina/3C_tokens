@@ -749,14 +749,14 @@
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{red.200}",
+        "value": "{red.220}",
         "type": "color",
         "description": "text and icons"
       }
     },
     "warning": {
       "fill": {
-        "value": "{yellow.160}",
+        "value": "{yellow.140}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
@@ -773,7 +773,7 @@
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{yellow.200}",
+        "value": "{yellow.220}",
         "type": "color",
         "description": "text and icons"
       }
