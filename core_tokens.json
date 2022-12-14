@@ -238,7 +238,7 @@
         "type": "color"
       },
       "70": {
-        "value": "hsla(178, 86%, 30%, 1)",
+        "value": "hsla(178, 79%, 29%, 1)",
         "type": "color"
       },
       "80": {
@@ -250,7 +250,7 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(178, 86%, 21%, 1)",
+        "value": "hsla(178, 86%, 20%, 1)",
         "type": "color"
       },
       "110": {
@@ -276,7 +276,7 @@
         "type": "color"
       },
       "30": {
-        "value": "hsla(212, 86%, 75%, 1)",
+        "value": "hsla(212, 75%, 80%, 1)",
         "type": "color"
       },
       "40": {
@@ -317,16 +317,20 @@
       }
     },
     "red": {
-      "10": {
+      "5": {
         "value": "hsla(353, 48%, 96%, 1)",
         "type": "color"
       },
-      "20": {
+      "10": {
         "value": "hsla(353, 56%, 90%, 1)",
         "type": "color"
       },
-      "30": {
+      "20": {
         "value": "hsla(353, 60%, 84%, 1)",
+        "type": "color"
+      },
+      "30": {
+        "value": "hsla(353, 84%, 78%, 1)",
         "type": "color"
       },
       "40": {
@@ -334,52 +338,40 @@
         "type": "color"
       },
       "50": {
-        "value": "hsla(353, 84%, 75%, 1)",
-        "type": "color"
-      },
-      "60": {
         "value": "hsla(353, 78%, 67%, 1)",
         "type": "color"
       },
-      "70": {
+      "60": {
         "value": "hsla(353, 71%, 61%, 1)",
         "type": "color"
       },
-      "80": {
+      "70": {
         "value": "hsla(353, 65%, 54%, 1)",
         "type": "color"
       },
-      "90": {
+      "80": {
         "value": "hsla(353, 65%, 50%, 1)",
         "type": "color"
       },
-      "100": {
+      "90": {
         "value": "hsla(350, 65%, 46%, 1)",
         "type": "color"
       },
-      "110": {
+      "100": {
         "value": "hsla(350, 65%, 42%, 1)",
         "type": "color"
       },
-      "120": {
+      "110": {
         "value": "hsla(348, 56%, 32%, 1)",
         "type": "color"
       },
-      "130": {
+      "120": {
         "value": "hsla(348, 31%, 20%, 1)",
-        "type": "color"
-      },
-      "140": {
-        "value": "hsla(348, 26%, 18%, 1)",
-        "type": "color"
-      },
-      "150": {
-        "value": "hsla(348, 25%, 17%, 1)",
         "type": "color"
       }
     },
     "yellow": {
-      "10": {
+      "5": {
         "value": "hsla(44, 98%, 96%, 1)",
         "type": "color"
       },
@@ -429,14 +421,6 @@
       },
       "130": {
         "value": "hsla(12, 38%, 20%, 1)",
-        "type": "color"
-      },
-      "140": {
-        "value": "hsla(12, 40%, 19%, 1)",
-        "type": "color"
-      },
-      "150": {
-        "value": "hsla(12, 40%, 18%, 1)",
         "type": "color"
       }
     },
@@ -492,82 +476,66 @@
       "130": {
         "value": "hsla(254, 27%, 22%, 1)",
         "type": "color"
-      },
-      "140": {
-        "value": "hsla(254, 24%, 20%, 1)",
-        "type": "color"
-      },
-      "150": {
-        "value": "hsla(254, 26%, 18%, 1)",
-        "type": "color"
       }
     },
     "green": {
-      "10": {
+      "5": {
         "value": "hsla(168, 48%, 96%, 1)",
         "type": "color"
       },
-      "20": {
+      "10": {
         "value": "hsla(168, 56%, 90%, 1)",
         "type": "color"
       },
-      "30": {
+      "20": {
         "value": "hsla(168, 60%, 84%, 1)",
         "type": "color"
       },
-      "40": {
+      "30": {
         "value": "hsla(168, 58%, 75%, 1)",
         "type": "color"
       },
-      "50": {
+      "40": {
         "value": "hsla(168, 59%, 52%, 1)",
         "type": "color"
       },
-      "60": {
+      "50": {
         "value": "hsla(168, 80%, 39%, 1)",
         "type": "color"
       },
-      "70": {
+      "60": {
         "value": "hsla(168, 85%, 35%, 1)",
         "type": "color"
       },
-      "80": {
+      "70": {
         "value": "hsla(168, 86%, 30%, 1)",
         "type": "color"
       },
-      "90": {
+      "80": {
         "value": "hsla(168, 86%, 27%, 1)",
         "type": "color"
       },
-      "100": {
+      "90": {
         "value": "hsla(168, 86%, 24%, 1)",
         "type": "color"
       },
-      "110": {
+      "100": {
         "value": "hsla(168, 86%, 21%, 1)",
         "type": "color"
       },
-      "120": {
+      "110": {
         "value": "hsla(168, 68%, 17%, 1)",
         "type": "color"
       },
-      "130": {
+      "120": {
         "value": "hsla(170, 37%, 15%, 1)",
-        "type": "color"
-      },
-      "140": {
-        "value": "hsla(170, 30%, 15%, 1)",
-        "type": "color"
-      },
-      "150": {
-        "value": "hsla(170, 21%, 15%, 1)",
         "type": "color"
       }
     }
   },
   "light": {
     "primary": {
-      "fill": {
+      "background": {
         "value": "{neutral.15}",
         "type": "color",
         "description": "background page"
@@ -584,7 +552,7 @@
       }
     },
     "primary-inverse": {
-      "fill": {
+      "background": {
         "value": "{neutral.235}",
         "type": "color",
         "description": "background page, accent forms"
@@ -601,7 +569,7 @@
       }
     },
     "secondary": {
-      "fill": {
+      "background": {
         "value": "{neutral.5}",
         "type": "color",
         "description": "on primary (cards, menu)"
@@ -628,7 +596,7 @@
       }
     },
     "secondary-inverse": {
-      "fill": {
+      "background": {
         "value": "{neutral.210}",
         "type": "color",
         "description": "on primary (cards, menu)"
@@ -655,7 +623,7 @@
       }
     },
     "tertiary": {
-      "fill": {
+      "background": {
         "value": "{neutral.0}",
         "type": "color",
         "description": "on secondary (dropdown, forms)"
@@ -667,8 +635,8 @@
       }
     },
     "brand": {
-      "fill": {
-        "value": "{teal.80}",
+      "background": {
+        "value": "{teal.70}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
@@ -679,7 +647,7 @@
       }
     },
     "brand-soft": {
-      "fill": {
+      "background": {
         "value": "{teal.5}",
         "type": "color",
         "description": "CTA or accent brand components"
@@ -691,56 +659,56 @@
       }
     },
     "success": {
-      "fill": {
-        "value": "{green.90}",
+      "background": {
+        "value": "{green.30}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{neutral.0}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
       }
     },
     "success-soft": {
-      "fill": {
-        "value": "{green.10}",
+      "background": {
+        "value": "{green.5}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{green.120}",
+        "value": "{green.110}",
         "type": "color",
         "description": "text and icons"
       }
     },
     "danger": {
-      "fill": {
-        "value": "{red.90}",
+      "background": {
+        "value": "{red.30}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{neutral.0}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
       }
     },
     "danger-soft": {
-      "fill": {
-        "value": "{red.10}",
+      "background": {
+        "value": "{red.5}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{red.120}",
+        "value": "{red.110}",
         "type": "color",
         "description": "text and icons"
       }
     },
     "warning": {
-      "fill": {
-        "value": "{yellow.80}",
+      "background": {
+        "value": "{yellow.40}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
@@ -751,13 +719,37 @@
       }
     },
     "warning-soft": {
-      "fill": {
-        "value": "{yellow.10}",
+      "background": {
+        "value": "{yellow.5}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{yellow.120}",
+        "value": "{yellow.110}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "info": {
+      "background": {
+        "value": "{blue.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      }
+    },
+    "info-soft": {
+      "background": {
+        "value": "{blue.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{blue.110}",
         "type": "color",
         "description": "text and icons"
       }
