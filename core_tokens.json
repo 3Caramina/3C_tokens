@@ -358,7 +358,7 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(350, 65%, 42%, 1)",
+        "value": "hsla(350, 65%, 37%, 1)",
         "type": "color"
       },
       "110": {
@@ -375,105 +375,105 @@
         "value": "hsla(44, 98%, 96%, 1)",
         "type": "color"
       },
-      "20": {
+      "10": {
         "value": "hsla(44, 100%, 90%, 1)",
         "type": "color"
       },
-      "30": {
+      "20": {
         "value": "hsla(44, 100%, 84%, 1)",
         "type": "color"
       },
-      "40": {
+      "30": {
         "value": "hsla(44, 90%, 75%, 1)",
         "type": "color"
       },
-      "50": {
+      "40": {
         "value": "hsla(44, 93%, 79%, 1)",
         "type": "color"
       },
-      "60": {
+      "50": {
         "value": "hsla(44, 96%, 70%, 1)",
         "type": "color"
       },
-      "70": {
+      "60": {
         "value": "hsla(42, 98%, 66%, 1)",
         "type": "color"
       },
-      "80": {
+      "70": {
         "value": "hsla(40, 93%, 58%, 1)",
         "type": "color"
       },
-      "90": {
+      "80": {
         "value": "hsla(40, 97%, 47%, 1)",
         "type": "color"
       },
-      "100": {
+      "90": {
         "value": "hsla(38, 100%, 39%, 1)",
         "type": "color"
       },
-      "110": {
+      "100": {
         "value": "hsla(32, 88%, 34%, 1)",
         "type": "color"
       },
-      "120": {
+      "110": {
         "value": "hsla(30, 80%, 30%, 1)",
         "type": "color"
       },
-      "130": {
+      "120": {
         "value": "hsla(12, 38%, 20%, 1)",
         "type": "color"
       }
     },
     "purple": {
-      "10": {
+      "5": {
         "value": "hsla(250, 48%, 96%, 1)",
         "type": "color"
       },
-      "20": {
+      "10": {
         "value": "hsla(250, 58%, 93%, 1)",
         "type": "color"
       },
-      "30": {
+      "20": {
         "value": "hsla(250, 60%, 84%, 1)",
         "type": "color"
       },
-      "40": {
+      "30": {
         "value": "hsla(250, 86%, 75%, 1)",
         "type": "color"
       },
-      "50": {
+      "40": {
         "value": "hsla(250, 86%, 76%, 1)",
         "type": "color"
       },
-      "60": {
+      "50": {
         "value": "hsla(250, 78%, 69%, 1)",
         "type": "color"
       },
-      "70": {
+      "60": {
         "value": "hsla(250, 69%, 65%, 1)",
         "type": "color"
       },
-      "80": {
+      "70": {
         "value": "hsla(250, 60%, 58%, 1)",
         "type": "color"
       },
-      "90": {
+      "80": {
         "value": "hsla(250, 60%, 54%, 1)",
         "type": "color"
       },
-      "100": {
+      "90": {
         "value": "hsla(250, 51%, 48%, 1)",
         "type": "color"
       },
-      "110": {
+      "100": {
         "value": "hsla(250, 59%, 42%, 1)",
         "type": "color"
       },
-      "120": {
+      "110": {
         "value": "hsla(250, 44%, 28%, 1)",
         "type": "color"
       },
-      "130": {
+      "120": {
         "value": "hsla(254, 27%, 22%, 1)",
         "type": "color"
       }
@@ -700,6 +700,26 @@
         "value": "{green.100}",
         "type": "color",
         "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{green.10}",
+        "type": "color",
+        "description": "hover state"
+      },
+      "background-action": {
+        "value": "{green.20}",
+        "type": "color",
+        "description": "active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "text and icons"
       }
     },
     "danger": {
@@ -728,7 +748,7 @@
     },
     "warning": {
       "background": {
-        "value": "{yellow.40}",
+        "value": "{yellow.30}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
@@ -745,7 +765,7 @@
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{yellow.110}",
+        "value": "{yellow.100}",
         "type": "color",
         "description": "text and icons"
       }
