@@ -644,6 +644,26 @@
         "value": "{neutral.0}",
         "type": "color",
         "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{teal.80}",
+        "type": "color",
+        "description": "hover state"
+      },
+      "background-action": {
+        "value": "{teal.90}",
+        "type": "color",
+        "description": "active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "text and icons"
       }
     },
     "brand-soft": {
@@ -654,6 +674,26 @@
       },
       "content": {
         "value": "{teal.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{teal.10}",
+        "type": "color",
+        "description": "hover state"
+      },
+      "background-action": {
+        "value": "{teal.20}",
+        "type": "color",
+        "description": "active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
         "type": "color",
         "description": "text and icons"
       }
