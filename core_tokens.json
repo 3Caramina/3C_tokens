@@ -218,7 +218,7 @@
         "type": "color"
       },
       "20": {
-        "value": "hsla(178, 60%, 84%, 1)",
+        "value": "hsla(178, 58%, 84%, 1)",
         "type": "color"
       },
       "30": {
@@ -682,10 +682,20 @@
         "type": "color",
         "description": "hover state"
       },
+      "content-hover": {
+        "value": "{teal.110}",
+        "type": "color",
+        "description": "text and icons"
+      },
       "background-action": {
         "value": "{teal.20}",
         "type": "color",
         "description": "active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{teal.110}",
+        "type": "color",
+        "description": "text and icons"
       },
       "background-disabled": {
         "value": "{neutral.25}",
