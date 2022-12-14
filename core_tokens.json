@@ -497,6 +497,64 @@
         "value": "hsla(253, 26%, 18%, 1)",
         "type": "color"
       }
+    },
+    "green": {
+      "10": {
+        "value": "hsla(168, 35%, 94%, 1)",
+        "type": "color"
+      },
+      "20": {
+        "value": "hsla(168, 38%, 90%, 1)",
+        "type": "color"
+      },
+      "40": {
+        "value": "hsla(168, 38%, 86%, 1)",
+        "type": "color"
+      },
+      "60": {
+        "value": "hsla(168, 58%, 68%, 1)",
+        "type": "color"
+      },
+      "80": {
+        "value": "hsla(168, 59%, 49%, 1)",
+        "type": "color"
+      },
+      "100": {
+        "value": "hsla(168, 80%, 39%, 1)",
+        "type": "color"
+      },
+      "120": {
+        "value": "hsla(168, 85%, 35%, 1)",
+        "type": "color"
+      },
+      "140": {
+        "value": "hsla(168, 86%, 30%, 1)",
+        "type": "color"
+      },
+      "160": {
+        "value": "hsla(168, 86%, 27%, 1)",
+        "type": "color"
+      },
+      "180": {
+        "value": "hsla(168, 86%, 24%, 1)",
+        "type": "color"
+      },
+      "200": {
+        "value": "hsla(168, 86%, 21%, 1)",
+        "type": "color"
+      },
+      "240": {
+        "value": "hsla(170, 37%, 15%, 1)",
+        "type": "color"
+      },
+      "245": {
+        "value": "hsla(170, 30%, 15%, 1)",
+        "type": "color"
+      },
+      "250": {
+        "value": "hsla(170, 21%, 15%, 1)",
+        "type": "color"
+      }
     }
   },
   "light": {
@@ -626,7 +684,7 @@
     },
     "success": {
       "fill": {
-        "value": "{teal.160}",
+        "value": "{green.160}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
@@ -638,12 +696,12 @@
     },
     "success-soft": {
       "fill": {
-        "value": "{teal.10}",
+        "value": "{green.10}",
         "type": "color",
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{teal.200}",
+        "value": "{green.200}",
         "type": "color",
         "description": "text and icons"
       }
