@@ -253,6 +253,10 @@
         "value": "hsla(177, 86%, 21%, 1)",
         "type": "color"
       },
+      "220": {
+        "value": "hsla(177, 68%, 17%, 1)",
+        "type": "color"
+      },
       "240": {
         "value": "hsla(180, 37%, 15%, 1)",
         "type": "color"
@@ -309,6 +313,10 @@
       },
       "200": {
         "value": "hsla(212, 75%, 33%, 1)",
+        "type": "color"
+      },
+      "220": {
+        "value": "hsla(212, 56%, 28%, 1)",
         "type": "color"
       },
       "240": {
@@ -369,6 +377,10 @@
         "value": "hsla(353, 65%, 42%, 1)",
         "type": "color"
       },
+      "220": {
+        "value": "hsla(353, 56%, 32%, 1)",
+        "type": "color"
+      },
       "240": {
         "value": "hsla(350, 31%, 20%, 1)",
         "type": "color"
@@ -425,6 +437,10 @@
       },
       "200": {
         "value": "hsla(35, 83%, 38%, 1)",
+        "type": "color"
+      },
+      "220": {
+        "value": "hsla(35, 60%, 28%, 1)",
         "type": "color"
       },
       "240": {
@@ -485,6 +501,10 @@
         "value": "hsla(250, 59%, 42%, 1)",
         "type": "color"
       },
+      "220": {
+        "value": "hsla(250, 44%, 28%, 1)",
+        "type": "color"
+      },
       "240": {
         "value": "hsla(250, 27%, 22%, 1)",
         "type": "color"
@@ -541,6 +561,10 @@
       },
       "200": {
         "value": "hsla(168, 86%, 21%, 1)",
+        "type": "color"
+      },
+      "220": {
+        "value": "hsla(168, 68%, 17%, 1)",
         "type": "color"
       },
       "240": {
@@ -701,7 +725,7 @@
         "description": "CTA or accent brand components"
       },
       "content": {
-        "value": "{green.200}",
+        "value": "{green.220}",
         "type": "color",
         "description": "text and icons"
       }
