@@ -250,15 +250,15 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(178, 82%, 20%, 1)",
+        "value": "hsla(178, 82%, 19%, 1)",
         "type": "color"
       },
       "110": {
-        "value": "hsla(180, 68%, 17%, 1)",
+        "value": "hsla(180, 81%, 17%, 1)",
         "type": "color"
       },
       "120": {
-        "value": "hsla(180, 37%, 15%, 1)",
+        "value": "hsla(180, 81%, 15%, 1)",
         "type": "color"
       }
     },
@@ -520,7 +520,7 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(168, 86%, 21%, 1)",
+        "value": "hsla(168, 86%, 20%, 1)",
         "type": "color"
       },
       "110": {
