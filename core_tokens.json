@@ -546,7 +546,7 @@
         "description": "text and icons"
       },
       "content-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -563,7 +563,7 @@
         "description": "text and icons"
       },
       "content-disabled": {
-        "value": "{neutral.140}",
+        "value": "{neutral.100}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -955,7 +955,7 @@
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{yellow.100}",
+        "value": "{yellow.110}",
         "type": "color",
         "description": "txt hover state"
       },
@@ -965,7 +965,7 @@
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{yellow.100}",
+        "value": "{yellow.120}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
@@ -992,22 +992,22 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{blue.30}",
+        "value": "{blue.40}",
         "type": "color",
         "description": "bg hover state"
       },
       "background-action": {
-        "value": "{blue.30}",
+        "value": "{blue.50}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{blue.30}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.220}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -1024,32 +1024,32 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{blue.5}",
+        "value": "{blue.10}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{blue.100}",
+        "value": "{blue.110}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{blue.5}",
+        "value": "{blue.20}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{blue.100}",
+        "value": "{blue.120}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{blue.5}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{blue.100}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
