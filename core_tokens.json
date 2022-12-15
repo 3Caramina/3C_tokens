@@ -634,47 +634,47 @@
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{neutral.15}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "components border"
       },
       "background-hover": {
-        "value": "{neutral.0}",
+        "value": "{neutral.5}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{neutral.145}",
+        "value": "{neutral.175}",
         "type": "color",
         "description": "txt hover state"
       },
       "stroke-hover": {
-        "value": "{neutral.15}",
+        "value": "{neutral.35}",
         "type": "color",
         "description": "border hover state"
       },
       "background-action": {
-        "value": "{neutral.0}",
+        "value": "{neutral.10}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{neutral.145}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "stroke-action": {
-        "value": "{neutral.15}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "border active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.0}",
+        "value": "{neutral.5}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.145}",
+        "value": "{neutral.60}",
         "type": "color",
         "description": "txt disabled state"
       },
@@ -743,7 +743,7 @@
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{teal.110}",
+        "value": "{teal.120}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
@@ -753,7 +753,7 @@
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -807,7 +807,7 @@
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{green.100}",
+        "value": "{green.110}",
         "type": "color",
         "description": "txt hover state"
       },
@@ -817,7 +817,7 @@
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{green.100}",
+        "value": "{green.120}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
@@ -844,22 +844,22 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{red.30}",
+        "value": "{red.40}",
         "type": "color",
         "description": "bg hover state"
       },
       "background-action": {
-        "value": "{red.30}",
+        "value": "{red.50}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{red.30}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.220}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -876,32 +876,32 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{red.5}",
+        "value": "{red.10}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{red.100}",
+        "value": "{red.110}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{red.5}",
+        "value": "{red.20}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{red.100}",
+        "value": "{red.120}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{red.5}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{red.100}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -918,22 +918,22 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{yellow.30}",
+        "value": "{yellow.40}",
         "type": "color",
         "description": "bg hover state"
       },
       "background-action": {
-        "value": "{yellow.30}",
+        "value": "{yellow.50}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{yellow.30}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.220}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -950,7 +950,7 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{yellow.5}",
+        "value": "{yellow.10}",
         "type": "color",
         "description": "bg hover state"
       },
@@ -960,7 +960,7 @@
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{yellow.5}",
+        "value": "{yellow.20}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
@@ -970,12 +970,12 @@
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{yellow.5}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{yellow.100}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
       }
