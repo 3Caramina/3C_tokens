@@ -358,15 +358,15 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(350, 65%, 37%, 1)",
+        "value": "hsla(350, 77%, 36%, 1)",
         "type": "color"
       },
       "110": {
-        "value": "hsla(348, 56%, 32%, 1)",
+        "value": "hsla(348, 64%, 30%, 1)",
         "type": "color"
       },
       "120": {
-        "value": "hsla(348, 31%, 20%, 1)",
+        "value": "hsla(348, 36%, 20%, 1)",
         "type": "color"
       }
     },
