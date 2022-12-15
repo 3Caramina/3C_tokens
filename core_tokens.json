@@ -548,7 +548,7 @@
       "content-disabled": {
         "value": "{neutral.80}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "primary-inverse": {
@@ -565,7 +565,7 @@
       "content-disabled": {
         "value": "{neutral.140}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "secondary": {
@@ -582,17 +582,17 @@
       "content-hover": {
         "value": "{neutral.185}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "content-action": {
         "value": "{neutral.220}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "content-disabled": {
         "value": "{neutral.80}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "secondary-inverse": {
@@ -609,17 +609,17 @@
       "content-hover": {
         "value": "{neutral.15}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "content-action": {
         "value": "{neutral.5}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "content-disabled": {
         "value": "{neutral.110}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "tertiary": {
@@ -698,7 +698,7 @@
       "background-hover": {
         "value": "{teal.80}",
         "type": "color",
-        "description": "hover state"
+        "description": "bg hover state"
       },
       "background-action": {
         "value": "{teal.90}",
@@ -713,7 +713,7 @@
       "content-disabled": {
         "value": "{neutral.90}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "brand-soft": {
@@ -730,12 +730,12 @@
       "background-hover": {
         "value": "{teal.10}",
         "type": "color",
-        "description": "hover state"
+        "description": "bg hover state"
       },
       "content-hover": {
         "value": "{teal.110}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "background-action": {
         "value": "{teal.20}",
@@ -745,7 +745,7 @@
       "content-action": {
         "value": "{teal.110}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
         "value": "{neutral.25}",
@@ -755,7 +755,7 @@
       "content-disabled": {
         "value": "{neutral.80}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "success": {
@@ -772,7 +772,7 @@
       "background-hover": {
         "value": "{green.40}",
         "type": "color",
-        "description": "hover state"
+        "description": "bg hover state"
       },
       "background-action": {
         "value": "{green.50}",
@@ -787,7 +787,7 @@
       "content-disabled": {
         "value": "{neutral.90}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "success-soft": {
@@ -804,12 +804,12 @@
       "background-hover": {
         "value": "{green.10}",
         "type": "color",
-        "description": "hover state"
+        "description": "bg hover state"
       },
       "content-hover": {
         "value": "{green.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "background-action": {
         "value": "{green.20}",
@@ -819,7 +819,7 @@
       "content-action": {
         "value": "{green.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
         "value": "{neutral.25}",
@@ -829,7 +829,7 @@
       "content-disabled": {
         "value": "{neutral.90}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "danger": {
@@ -846,7 +846,7 @@
       "background-hover": {
         "value": "{red.30}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "background-action": {
         "value": "{red.30}",
@@ -861,7 +861,7 @@
       "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "danger-soft": {
@@ -878,12 +878,12 @@
       "background-hover": {
         "value": "{red.5}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "content-hover": {
         "value": "{red.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "background-action": {
         "value": "{red.5}",
@@ -893,7 +893,7 @@
       "content-action": {
         "value": "{red.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
         "value": "{red.5}",
@@ -903,7 +903,7 @@
       "content-disabled": {
         "value": "{red.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "warning": {
@@ -920,7 +920,7 @@
       "background-hover": {
         "value": "{yellow.30}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "background-action": {
         "value": "{yellow.30}",
@@ -935,7 +935,7 @@
       "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "warning-soft": {
@@ -952,12 +952,12 @@
       "background-hover": {
         "value": "{yellow.5}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "content-hover": {
         "value": "{yellow.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "background-action": {
         "value": "{yellow.5}",
@@ -967,7 +967,7 @@
       "content-action": {
         "value": "{yellow.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
         "value": "{yellow.5}",
@@ -977,7 +977,7 @@
       "content-disabled": {
         "value": "{yellow.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "info": {
@@ -994,7 +994,7 @@
       "background-hover": {
         "value": "{blue.30}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "background-action": {
         "value": "{blue.30}",
@@ -1009,7 +1009,7 @@
       "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     },
     "info-soft": {
@@ -1026,12 +1026,12 @@
       "background-hover": {
         "value": "{blue.5}",
         "type": "color",
-        "description": "CTA or accent brand components"
+        "description": "bg hover state"
       },
       "content-hover": {
         "value": "{blue.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt hover state"
       },
       "background-action": {
         "value": "{blue.5}",
@@ -1041,7 +1041,7 @@
       "content-action": {
         "value": "{blue.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
         "value": "{blue.5}",
@@ -1051,7 +1051,7 @@
       "content-disabled": {
         "value": "{blue.100}",
         "type": "color",
-        "description": "text and icons"
+        "description": "txt disabled state"
       }
     }
   },
