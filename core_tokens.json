@@ -637,6 +637,51 @@
         "value": "{neutral.15}",
         "type": "color",
         "description": "components border"
+      },
+      "background-hover": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{neutral.145}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "stroke-hover": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "border hover state"
+      },
+      "background-action": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{neutral.145}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "stroke-action": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "border active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.145}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "border disabled state"
       }
     },
     "brand": {
