@@ -629,7 +629,7 @@
         "description": "on secondary (dropdown, forms)"
       },
       "content": {
-        "value": "{neutral.145}",
+        "value": "{neutral.150}",
         "type": "color",
         "description": "text and icons"
       },
