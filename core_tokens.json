@@ -330,15 +330,15 @@
         "type": "color"
       },
       "30": {
-        "value": "hsla(353, 84%, 78%, 1)",
+        "value": "hsla(353, 84%, 80%, 1)",
         "type": "color"
       },
       "40": {
-        "value": "hsla(353, 84%, 75%, 1)",
+        "value": "hsla(353, 76%, 77%, 1)",
         "type": "color"
       },
       "50": {
-        "value": "hsla(353, 78%, 67%, 1)",
+        "value": "hsla(353, 72%, 73%, 1)",
         "type": "color"
       },
       "60": {
