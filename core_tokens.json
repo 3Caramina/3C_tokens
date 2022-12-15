@@ -828,7 +828,27 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{red.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{red.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{red.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
@@ -840,7 +860,32 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{red.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{red.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{red.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{red.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{red.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{red.100}",
         "type": "color",
         "description": "text and icons"
@@ -852,7 +897,27 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{yellow.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{yellow.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{yellow.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
@@ -864,7 +929,37 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{yellow.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{yellow.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{yellow.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{yellow.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{yellow.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-action": {
+        "value": "{yellow.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{yellow.100}",
         "type": "color",
         "description": "text and icons"
@@ -876,7 +971,27 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{blue.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{blue.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{blue.30}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
@@ -888,7 +1003,37 @@
         "type": "color",
         "description": "CTA or accent brand components"
       },
+      "background-hover": {
+        "value": "{blue.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-action": {
+        "value": "{blue.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "background-disabled": {
+        "value": "{blue.5}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
       "content": {
+        "value": "{blue.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{blue.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-action": {
+        "value": "{blue.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
         "value": "{blue.100}",
         "type": "color",
         "description": "text and icons"
