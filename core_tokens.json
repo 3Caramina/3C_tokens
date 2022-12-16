@@ -1061,7 +1061,7 @@
       "content-action": {
         "value": "{blue.120}",
         "type": "color",
-        "description": "txt active, focused, pressed state"
+        "description": "txt active, focused, visited, pressed state"
       },
       "background-disabled": {
         "value": "{neutral.25}",
