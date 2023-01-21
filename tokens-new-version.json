@@ -1704,12 +1704,12 @@
         "description": "on secondary (dropdown, forms)"
       },
       "content": {
-        "value": "{neutral.50}",
+        "value": "{neutral.90}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{neutral.25}",
+        "value": "{neutral.175}",
         "type": "color",
         "description": "components border"
       },
