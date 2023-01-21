@@ -1556,13 +1556,629 @@
       }
     }
   },
+  "dark": {
+    "primary": {
+      "background": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "background page"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "primary-inverse": {
+      "background": {
+        "value": "{neutral.235}",
+        "type": "color",
+        "description": "background page, accent forms"
+      },
+      "content": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.100}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "secondary": {
+      "background": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content": {
+        "value": "{neutral.175}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{neutral.185}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "content-action": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "secondary-soft": {
+      "background": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content": {
+        "value": "{neutral.175}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{neutral.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-hover": {
+        "value": "{neutral.185}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{neutral.35}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-action": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "secondary-inverse": {
+      "background": {
+        "value": "{neutral.210}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-hover": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "content-action": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "content-disabled": {
+        "value": "{neutral.110}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "tertiary": {
+      "background": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "on secondary (dropdown, forms)"
+      },
+      "content": {
+        "value": "{neutral.150}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "components border"
+      },
+      "background-hover": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{neutral.175}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "stroke-hover": {
+        "value": "{neutral.35}",
+        "type": "color",
+        "description": "border hover state"
+      },
+      "background-action": {
+        "value": "{neutral.10}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "stroke-action": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "border active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.5}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.60}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "border disabled state"
+      }
+    },
+    "brand": {
+      "background": {
+        "value": "{teal.70}",
+        "type": "color",
+        "description": "CTA or accent brand components"
+      },
+      "content": {
+        "value": "{neutral.0}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{teal.80}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "background-action": {
+        "value": "{teal.90}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "brand-soft": {
+      "background": {
+        "value": "{teal.5}",
+        "type": "color",
+        "description": "soft brand components"
+      },
+      "content": {
+        "value": "{teal.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{teal.10}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{teal.110}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{teal.20}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{teal.120}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "success": {
+      "background": {
+        "value": "{green.30}",
+        "type": "color",
+        "description": "accent success components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{green.40}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "background-action": {
+        "value": "{green.50}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "success-soft": {
+      "background": {
+        "value": "{green.5}",
+        "type": "color",
+        "description": "soft success components"
+      },
+      "content": {
+        "value": "{green.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{green.100}",
+        "type": "color",
+        "description": "components border"
+      },
+      "background-hover": {
+        "value": "{green.10}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{green.110}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{green.20}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{green.120}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "danger": {
+      "background": {
+        "value": "{red.30}",
+        "type": "color",
+        "description": "accent danger components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{red.40}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "background-action": {
+        "value": "{red.50}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "danger-soft": {
+      "background": {
+        "value": "{red.5}",
+        "type": "color",
+        "description": "soft danger components"
+      },
+      "content": {
+        "value": "{red.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{red.100}",
+        "type": "color",
+        "description": "components border"
+      },
+      "background-hover": {
+        "value": "{red.10}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{red.110}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{red.20}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{red.120}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "warning": {
+      "background": {
+        "value": "{yellow.30}",
+        "type": "color",
+        "description": "accent warning components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{yellow.40}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "background-action": {
+        "value": "{yellow.50}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "warning-soft": {
+      "background": {
+        "value": "{yellow.5}",
+        "type": "color",
+        "description": "soft warning components"
+      },
+      "content": {
+        "value": "{yellow.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{yellow.100}",
+        "type": "color",
+        "description": "components border"
+      },
+      "background-hover": {
+        "value": "{yellow.10}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{yellow.110}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{yellow.20}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{yellow.120}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "info": {
+      "background": {
+        "value": "{blue.30}",
+        "type": "color",
+        "description": "accent info components"
+      },
+      "content": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{blue.40}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "background-action": {
+        "value": "{blue.50}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "info-soft": {
+      "background": {
+        "value": "{blue.5}",
+        "type": "color",
+        "description": "soft info components"
+      },
+      "content": {
+        "value": "{blue.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{blue.100}",
+        "type": "color",
+        "description": "components border"
+      },
+      "background-hover": {
+        "value": "{blue.10}",
+        "type": "color",
+        "description": "bg hover state"
+      },
+      "content-hover": {
+        "value": "{blue.110}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{blue.20}",
+        "type": "color",
+        "description": "bg active, focused, pressed state"
+      },
+      "content-action": {
+        "value": "{blue.120}",
+        "type": "color",
+        "description": "txt active, focused, visited, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "bg disabled state"
+      },
+      "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "special": {
+      "shimmer": {
+        "value": "linear-gradient(90deg, $neutral.20 0%, $neutral.5 50%, $neutral.20 100%)",
+        "type": "color"
+      }
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "typography",
       "core palette",
-      "light"
+      "light",
+      "dark"
     ]
   }
 }
