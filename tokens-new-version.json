@@ -1003,6 +1003,58 @@
         "description": "txt disabled state"
       }
     },
+    "secondary-soft": {
+      "background": {
+        "value": "{neutral.20}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content": {
+        "value": "{neutral.175}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "stroke": {
+        "value": "{neutral.100}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "background-hover": {
+        "value": "{neutral.30}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-hover": {
+        "value": "{neutral.185}",
+        "type": "color",
+        "description": "txt hover state"
+      },
+      "background-action": {
+        "value": "{neutral.45}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-action": {
+        "value": "{neutral.220}",
+        "type": "color",
+        "description": "txt active, focused, pressed state"
+      },
+      "background-disabled": {
+        "value": "{neutral.25}",
+        "type": "color",
+        "description": "on primary (cards, menu)"
+      },
+      "content-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.80}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
     "secondary-inverse": {
       "background": {
         "value": "{neutral.210}",
@@ -1327,6 +1379,11 @@
         "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
       }
     },
     "warning": {
@@ -1403,6 +1460,11 @@
         "description": "bg disabled state"
       },
       "content-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
+      },
+      "stroke-disabled": {
         "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
@@ -1485,6 +1547,12 @@
         "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
+      }
+    },
+    "special": {
+      "shimmer": {
+        "value": "linear-gradient(90deg, $neutral.20 0%, $neutral.5 50%, $neutral.20 100%)",
+        "type": "color"
       }
     }
   },
