@@ -107,36 +107,6 @@
         "value": "999",
         "type": "borderRadius"
       }
-    },
-    "fontWeight": {
-      "extrabold": {
-        "value": "ExtraBold",
-        "type": "fontWeights"
-      },
-      "bold": {
-        "value": "Bold",
-        "type": "fontWeights"
-      },
-      "semibold": {
-        "value": "SemiBold",
-        "type": "fontWeights"
-      },
-      "medium": {
-        "value": "Medium",
-        "type": "fontWeights"
-      },
-      "normal": {
-        "value": "Regular",
-        "type": "fontWeights"
-      },
-      "light": {
-        "value": "Light",
-        "type": "fontWeights"
-      },
-      "extralight": {
-        "value": "ExtraLight",
-        "type": "fontWeights"
-      }
     }
   },
   "typography": {
@@ -336,7 +306,7 @@
       "medium": {
         "value": {
           "fontFamily": "{manrope}",
-          "fontWeight": "{fontWeight.semibold}",
+          "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeights.24}",
           "fontSize": "{fontSize.16}",
           "letterSpacing": "{letterSpacing.4}",
@@ -350,7 +320,7 @@
       "small": {
         "value": {
           "fontFamily": "{manrope}",
-          "fontWeight": "{fontWeight.semibold}",
+          "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeights.20}",
           "fontSize": "{fontSize.13}",
           "letterSpacing": "{letterSpacing.5}",
@@ -366,7 +336,7 @@
       "medium": {
         "value": {
           "fontFamily": "{manrope}",
-          "fontWeight": "{fontWeight.semibold}",
+          "fontWeight": "{fontWeight.medium}",
           "lineHeight": "{lineHeights.16}",
           "fontSize": "{fontSize.11}",
           "letterSpacing": "{letterSpacing.2}",
@@ -406,6 +376,36 @@
       "none": {
         "value": "none",
         "type": "textDecoration"
+      }
+    },
+    "fontWeight": {
+      "extrabold": {
+        "value": "extrabold",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "bold",
+        "type": "fontWeights"
+      },
+      "semibold": {
+        "value": "semibold",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "medium",
+        "type": "fontWeights"
+      },
+      "normal": {
+        "value": "regular",
+        "type": "fontWeights"
+      },
+      "light": {
+        "value": "light",
+        "type": "fontWeights"
+      },
+      "extralight": {
+        "value": "extralight",
+        "type": "fontWeights"
       }
     }
   },
@@ -1005,7 +1005,7 @@
     },
     "secondary-soft": {
       "background": {
-        "value": "{neutral.20}",
+        "value": "{neutral.15}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
@@ -1020,7 +1020,7 @@
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{neutral.30}",
+        "value": "{neutral.25}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
@@ -1030,7 +1030,7 @@
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{neutral.45}",
+        "value": "{neutral.35}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
