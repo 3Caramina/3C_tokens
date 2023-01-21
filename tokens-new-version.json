@@ -971,7 +971,7 @@
         "description": "text and icons"
       },
       "content-disabled": {
-        "value": "{neutral.100}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -1559,9 +1559,26 @@
   "dark": {
     "primary": {
       "background": {
-        "value": "{neutral.15}",
+        "value": "{neutral.235}",
         "type": "color",
         "description": "background page"
+      },
+      "content": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "text and icons"
+      },
+      "content-disabled": {
+        "value": "{neutral.145}",
+        "type": "color",
+        "description": "txt disabled state"
+      }
+    },
+    "primary-inverse": {
+      "background": {
+        "value": "{neutral.15}",
+        "type": "color",
+        "description": "background page, accent forms"
       },
       "content": {
         "value": "{neutral.220}",
@@ -1574,78 +1591,61 @@
         "description": "txt disabled state"
       }
     },
-    "primary-inverse": {
-      "background": {
-        "value": "{neutral.235}",
-        "type": "color",
-        "description": "background page, accent forms"
-      },
-      "content": {
-        "value": "{neutral.5}",
-        "type": "color",
-        "description": "text and icons"
-      },
-      "content-disabled": {
-        "value": "{neutral.100}",
-        "type": "color",
-        "description": "txt disabled state"
-      }
-    },
     "secondary": {
       "background": {
-        "value": "{neutral.5}",
+        "value": "{neutral.225}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content": {
-        "value": "{neutral.175}",
+        "value": "{neutral.30}",
         "type": "color",
         "description": "text and icons"
       },
       "content-hover": {
-        "value": "{neutral.185}",
+        "value": "{neutral.20}",
         "type": "color",
         "description": "txt hover state"
       },
       "content-action": {
-        "value": "{neutral.220}",
+        "value": "{neutral.10}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "content-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "secondary-soft": {
       "background": {
-        "value": "{neutral.15}",
+        "value": "{neutral.235}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content": {
-        "value": "{neutral.175}",
+        "value": "{neutral.30}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{neutral.100}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{neutral.25}",
+        "value": "{neutral.225}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content-hover": {
-        "value": "{neutral.185}",
+        "value": "{neutral.20}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{neutral.35}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
@@ -1672,39 +1672,39 @@
     },
     "secondary-inverse": {
       "background": {
-        "value": "{neutral.210}",
+        "value": "{neutral.5}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content": {
-        "value": "{neutral.25}",
+        "value": "{neutral.175}",
         "type": "color",
         "description": "text and icons"
       },
       "content-hover": {
-        "value": "{neutral.15}",
+        "value": "{neutral.185}",
         "type": "color",
         "description": "txt hover state"
       },
       "content-action": {
-        "value": "{neutral.5}",
+        "value": "{neutral.220}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "content-disabled": {
-        "value": "{neutral.110}",
+        "value": "{neutral.80}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "tertiary": {
       "background": {
-        "value": "{neutral.0}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "on secondary (dropdown, forms)"
       },
       "content": {
-        "value": "{neutral.150}",
+        "value": "{neutral.50}",
         "type": "color",
         "description": "text and icons"
       },
