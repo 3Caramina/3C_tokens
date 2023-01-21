@@ -380,31 +380,31 @@
     },
     "fontWeight": {
       "extrabold": {
-        "value": "extrabold",
+        "value": "ExtraBold",
         "type": "fontWeights"
       },
       "bold": {
-        "value": "bold",
+        "value": "Bold",
         "type": "fontWeights"
       },
       "semibold": {
-        "value": "semibold",
+        "value": "SemiBold",
         "type": "fontWeights"
       },
       "medium": {
-        "value": "medium",
+        "value": "Medium",
         "type": "fontWeights"
       },
       "normal": {
-        "value": "regular",
+        "value": "Regular",
         "type": "fontWeights"
       },
       "light": {
-        "value": "light",
+        "value": "Light",
         "type": "fontWeights"
       },
       "extralight": {
-        "value": "extralight",
+        "value": "ExtraLight",
         "type": "fontWeights"
       }
     }
