@@ -662,11 +662,11 @@
         "type": "color"
       },
       "110": {
-        "value": "hsla(180, 81%, 17%, 1)",
+        "value": "hsla(180, 51%, 17%, 1)",
         "type": "color"
       },
       "120": {
-        "value": "hsla(180, 81%, 15%, 1)",
+        "value": "hsla(180, 21%, 10%, 1)",
         "type": "color"
       }
     },
@@ -770,11 +770,11 @@
         "type": "color"
       },
       "110": {
-        "value": "hsla(348, 64%, 30%, 1)",
+        "value": "hsla(348, 44%, 30%, 1)",
         "type": "color"
       },
       "120": {
-        "value": "hsla(348, 36%, 20%, 1)",
+        "value": "hsla(348, 26%, 15%, 1)",
         "type": "color"
       }
     },
@@ -820,15 +820,15 @@
         "type": "color"
       },
       "100": {
-        "value": "hsla(32, 76%, 27%, 1)",
+        "value": "hsla(38, 76%, 27%, 1)",
         "type": "color"
       },
       "110": {
-        "value": "hsla(30, 76%, 22%, 1)",
+        "value": "hsla(42, 56%, 22%, 1)",
         "type": "color"
       },
       "120": {
-        "value": "hsla(12, 38%, 20%, 1)",
+        "value": "hsla(42, 28%, 15%, 1)",
         "type": "color"
       }
     },
@@ -1620,7 +1620,7 @@
     },
     "secondary-soft": {
       "background": {
-        "value": "{neutral.235}",
+        "value": "{neutral.200}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
@@ -1630,12 +1630,12 @@
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{neutral.220}",
+        "value": "{neutral.120}",
         "type": "color",
         "description": "text and icons"
       },
       "background-hover": {
-        "value": "{neutral.225}",
+        "value": "{neutral.190}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
@@ -1645,27 +1645,27 @@
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{neutral.220}",
+        "value": "{neutral.170}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content-action": {
-        "value": "{neutral.220}",
+        "value": "{neutral.10}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "on primary (cards, menu)"
       },
       "content-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       },
       "stroke-disabled": {
-        "value": "{neutral.80}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -1781,7 +1781,7 @@
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
@@ -1823,12 +1823,12 @@
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -1855,64 +1855,64 @@
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "success-soft": {
       "background": {
-        "value": "{green.5}",
+        "value": "{green.120}",
         "type": "color",
         "description": "soft success components"
       },
       "content": {
-        "value": "{green.100}",
+        "value": "{green.50}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{green.100}",
+        "value": "{green.50}",
         "type": "color",
         "description": "components border"
       },
       "background-hover": {
-        "value": "{green.10}",
+        "value": "{green.120}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{green.110}",
+        "value": "{green.30}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{green.20}",
+        "value": "{green.110}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{green.120}",
+        "value": "{green.10}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       },
       "stroke-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -1939,64 +1939,64 @@
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "danger-soft": {
       "background": {
-        "value": "{red.5}",
+        "value": "{red.120}",
         "type": "color",
         "description": "soft danger components"
       },
       "content": {
-        "value": "{red.100}",
+        "value": "{red.50}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{red.100}",
+        "value": "{red.50}",
         "type": "color",
         "description": "components border"
       },
       "background-hover": {
-        "value": "{red.10}",
+        "value": "{red.120}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{red.110}",
+        "value": "{red.30}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{red.20}",
+        "value": "{red.110}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{red.120}",
+        "value": "{red.10}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       },
       "stroke-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -2023,64 +2023,64 @@
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "warning-soft": {
       "background": {
-        "value": "{yellow.5}",
+        "value": "{yellow.120}",
         "type": "color",
         "description": "soft warning components"
       },
       "content": {
-        "value": "{yellow.100}",
+        "value": "{yellow.50}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{yellow.100}",
+        "value": "{yellow.50}",
         "type": "color",
         "description": "components border"
       },
       "background-hover": {
-        "value": "{yellow.10}",
+        "value": "{yellow.120}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{yellow.110}",
+        "value": "{yellow.30}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{yellow.20}",
+        "value": "{yellow.110}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{yellow.120}",
+        "value": "{yellow.10}",
         "type": "color",
         "description": "txt active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       },
       "stroke-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
@@ -2107,66 +2107,66 @@
         "description": "bg active, focused, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "info-soft": {
       "background": {
-        "value": "{blue.5}",
+        "value": "{blue.120}",
         "type": "color",
         "description": "soft info components"
       },
       "content": {
-        "value": "{blue.100}",
+        "value": "{blue.50}",
         "type": "color",
         "description": "text and icons"
       },
       "stroke": {
-        "value": "{blue.100}",
+        "value": "{blue.50}",
         "type": "color",
         "description": "components border"
       },
       "background-hover": {
-        "value": "{blue.10}",
+        "value": "{blue.120}",
         "type": "color",
         "description": "bg hover state"
       },
       "content-hover": {
-        "value": "{blue.110}",
+        "value": "{blue.30}",
         "type": "color",
         "description": "txt hover state"
       },
       "background-action": {
-        "value": "{blue.20}",
+        "value": "{blue.110}",
         "type": "color",
         "description": "bg active, focused, pressed state"
       },
       "content-action": {
-        "value": "{blue.120}",
+        "value": "{blue.10}",
         "type": "color",
         "description": "txt active, focused, visited, pressed state"
       },
       "background-disabled": {
-        "value": "{neutral.25}",
+        "value": "{neutral.210}",
         "type": "color",
         "description": "bg disabled state"
       },
       "content-disabled": {
-        "value": "{neutral.90}",
+        "value": "{neutral.145}",
         "type": "color",
         "description": "txt disabled state"
       }
     },
     "special": {
       "shimmer": {
-        "value": "linear-gradient(90deg, $neutral.20 0%, $neutral.5 50%, $neutral.20 100%)",
+        "value": "linear-gradient(90deg, $neutral.200 0%, $neutral.170 50%, $neutral.200 100%)",
         "type": "color"
       }
     }
