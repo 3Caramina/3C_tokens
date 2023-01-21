@@ -1243,6 +1243,11 @@
         "value": "{neutral.90}",
         "type": "color",
         "description": "txt disabled state"
+      },
+      "stroke-disabled": {
+        "value": "{neutral.90}",
+        "type": "color",
+        "description": "txt disabled state"
       }
     },
     "danger": {
