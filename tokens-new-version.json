@@ -336,7 +336,7 @@
       "medium": {
         "value": {
           "fontFamily": "{manrope}",
-          "fontWeight": "{fontWeight.medium}",
+          "fontWeight": "{fontWeight.semibold}",
           "lineHeight": "{lineHeights.16}",
           "fontSize": "{fontSize.11}",
           "letterSpacing": "{letterSpacing.2}",
